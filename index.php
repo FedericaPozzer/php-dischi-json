@@ -16,16 +16,16 @@
 
 </head>
 <body>
-    <header class="d-flex align-items-center">
+    <header class="d-flex align-items-center bg-header text-white">
         <div class="logo">LOGO</div>
     </header>
 
-    <main class="bg">
+    <main class="bg-main text-white">
         <div class="container">
             <div class="row row-cols-3">
 
                 <div class="col mt-5">
-                    <div class="card text-center" style="width: 18rem;">
+                    <div class="card bg-card text-center p-5" style="width: 18rem;">
                         <img src="..." class="card-img-top" alt="...">
                         <div class="card-body text-center">
                             <h5 class="card-title">Album</h5>

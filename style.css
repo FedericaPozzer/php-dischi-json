@@ -11,3 +11,18 @@ main {
     height: calc(100vh - 8vh);
     background-color: aquamarine;
 }
+
+
+/* BG COL */
+
+.bg-header {
+    background-color: #06131f;
+}
+
+.bg-main {
+    background-color: #1d2d3c;
+}
+
+.bg-card {
+    background-color: #112030;
+}
