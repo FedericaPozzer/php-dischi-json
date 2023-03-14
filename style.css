@@ -7,11 +7,18 @@ header {
     margin-left: 7rem;
 }
 
-main {
-    height: calc(100vh - 8vh);
-    background-color: aquamarine;
+.logo img {
+    max-height: 5rem;
+    fill: pink;
 }
 
+.container {
+    min-height: calc(100vh - 8vh);
+}
+
+.card {
+    height: 100%;
+}
 
 /* BG COL */
 
