@@ -1,0 +1,13 @@
+header {
+    height: 8vh;
+    background-color: pink;
+}
+
+.logo {
+    margin-left: 7rem;
+}
+
+main {
+    height: calc(100vh - 8vh);
+    background-color: aquamarine;
+}
