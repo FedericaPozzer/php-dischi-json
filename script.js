@@ -14,7 +14,6 @@ const app = Vue.createApp({
         .then((response) => {
             this.dischi = response.data;
         })
-
     }
 
 })
